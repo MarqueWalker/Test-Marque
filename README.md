@@ -48,4 +48,7 @@ My journey in Information Technology started by identifying vulnerabilities in d
 <img src="https://img.shields.io/badge/-Infosec%20Cyber%20Incident%20Response-660099?style=for-the-badge&logo=InfoSec&logoColor=white" />
 <img src="https://img.shields.io/badge/-NIST%20Framework-003366?style=for-the-badge&logo=NIST&logoColor=white" />
 
-
+## Projects
+- Test Project
+- TATA Consultancy IAM
+- Mastercard Security Awareness
