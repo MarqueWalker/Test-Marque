@@ -43,4 +43,6 @@ My journey in Information Technology started by identifying vulnerabilities in d
 <img src="https://img.shields.io/badge/-Google%20Professional%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-006699?style=for-the-badge&logo=IBM&logoColor=white" />
 <img src="https://img.shields.io/badge/-Amazon%20Architecting%20Solution-FF9900?style=for-the-badge&logo=Amazon&logoColor=white" />
+<img src="https://img.shields.io/badge/-Infosec%20Cyber%20Incident%20Response-660099?style=for-the-badge&logo=InfoSec&logoColor=white" />
+
 
