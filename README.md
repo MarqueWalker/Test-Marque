@@ -51,5 +51,7 @@ My journey in Information Technology started by identifying vulnerabilities in d
 
 ## Projects
 - Test Project
+- SOC Automation Project
+- Detection Lab
 - TATA Consultancy IAM
 - Mastercard Security Awareness
