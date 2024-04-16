@@ -33,6 +33,8 @@ My journey in Information Technology started by identifying vulnerabilities in d
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST%20Framework-003366?style=for-the-badge&logo=NIST&logoColor=white" />
+
 
 
     ## Certifications
@@ -44,5 +46,6 @@ My journey in Information Technology started by identifying vulnerabilities in d
 <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-006699?style=for-the-badge&logo=IBM&logoColor=white" />
 <img src="https://img.shields.io/badge/-Amazon%20Architecting%20Solution-FF9900?style=for-the-badge&logo=Amazon&logoColor=white" />
 <img src="https://img.shields.io/badge/-Infosec%20Cyber%20Incident%20Response-660099?style=for-the-badge&logo=InfoSec&logoColor=white" />
+<img src="https://img.shields.io/badge/-NIST%20Framework-003366?style=for-the-badge&logo=NIST&logoColor=white" />
 
 
