@@ -54,4 +54,5 @@ My journey in Information Technology started by identifying vulnerabilities in d
 - SOC Automation Project
 - Detection Lab
 - TATA Consultancy IAM
+- DATACOM
 - Mastercard Security Awareness
